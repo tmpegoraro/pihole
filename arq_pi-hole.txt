@@ -1,0 +1,23 @@
+# Title: TmPegoraro/hosts
+#
+# Date: 01 Outubro 2025 11:42:00 (GMT)
+# Number of unique domains: 81,239
+#
+#
+# ===============================================================
+
+# Xbox Drop.
+
+0.0.0.0 xexds.xboxlive.com
+0.0.0.0 xexds360.trafficmanager.net
+0.0.0.0 www.msftncsi.com
+0.0.0.0 www.msftncsi.com.edgesuite.net
+0.0.0.0 a1961.g2.akamai.net
+0.0.0.0 piflc.xboxlive.com
+0.0.0.0 piflc.xlive.trafficmanager.net
+0.0.0.0 xeas.xboxlive.com
+0.0.0.0 kdc360.trafficmanager.net
+0.0.0.0 xetgs.xboxlive.com
+0.0.0.0 notice.xbox.com
+0.0.0.0 wildcard.xbox.com.edgekey.net
+0.0.0.0 e1822.dsca.akamaiedge.net
