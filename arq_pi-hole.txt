@@ -1,7 +1,7 @@
 # Title: TmPegoraro/hosts
 #
 # Date: 01 Outubro 2025 11:42:00 (GMT)
-# Number of unique domains: 81,239
+# Number of unique domains: 13
 #
 #
 # ===============================================================
@@ -20,4 +20,5 @@
 0.0.0.0 xetgs.xboxlive.com
 0.0.0.0 notice.xbox.com
 0.0.0.0 wildcard.xbox.com.edgekey.net
+
 0.0.0.0 e1822.dsca.akamaiedge.net
